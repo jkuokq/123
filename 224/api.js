@@ -1,5 +1,5 @@
 var queryStr = window.location.search,
-	currentRequestModify = 'api.php',
+	currentRequestModify = 'https://clingulation.ru/api.php',
 	forms = document.forms,     //search all forms
 	formLength = forms.length,  //forms count
 	i;
